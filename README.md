@@ -61,8 +61,8 @@ O objetivo é permitir que ela pesquise imóveis sem depender de familiares.
 
 O site é composto por quatro telas principais:
 
-- **Home:** Apresentação do site e acesso rápido à busca.  
-- **Busca/Filtro:** Seleção por localização, preço, acessibilidade e proximidades.  
+- **Login:** Capitação do LEAD e acesso ao banco de dados salvos dos imoveis.  
+- **Home/Busca:** Seleção por localização, preço, acessibilidade e proximidades.  
 - **Página do Imóvel:** Fotos grandes, descrição, informações e proximidades.  
 - **Contato:** Formulário simples e botão de WhatsApp para falar com o corretor.  
 
